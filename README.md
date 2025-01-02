@@ -12,7 +12,8 @@ author = {Craioveanu, Gheorghe Marian and Stamatescu, Grigore},
 publisher = {IEEE Dataport},
 title = {CTX-UXO: A Comprehensive Dataset for Detection and Identification of UneXploded Ordnances},
 year = {2024} }
-
+</code>
+<code>
 @inproceedings{craioveanu2024detection,
   title={Detection and Identification of Unexploded Ordnance Using a Two-Step Deep Learning Methodology},
   author={Craioveanu, Marian G and Stamatescu, Grigore},
@@ -21,5 +22,4 @@ year = {2024} }
   year={2024},
   organization={IEEE}
 }
-
 </code>
