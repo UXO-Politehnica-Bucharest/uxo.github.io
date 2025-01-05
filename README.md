@@ -1,4 +1,6 @@
 # CTX-UXO: A Comprehensive Dataset for Detection and Identification of UneXploded Ordnances
+![CTX UXO Dataset](./ctx-uxo_1.jpg "CTX-UXO")
+
 Dataset can be found [here](https://ieee-dataport.org/documents/ctx-uxo-comprehensive-dataset-detection-and-identification-unexploded-ordnances)
 
 [First article](https://www.grigorestamatescu.com/files/med24.pdf)
